@@ -1,0 +1,92 @@
+[
+    {
+        "name": "LandMark 81",
+        "category": "Skyscraper",
+        "city": "Ho Chi Minh",
+        "state": "Binh Thanh",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 106.721781,
+            "latitude": 10.795078
+        },
+        "description": "Landmark 81 is a super-tall skyscraper in Ho Chi Minh City, Vietnam. The investor and primary developer for the project is Vinhomes, a Vietnamese corporation that is also the country's largest real-estate company. Landmark 81 is the tallest building in Vietnam, the tallest completed building in Southeast Asia, and the 15th tallest building in the world. The 461.15 metres (1,513.0 ft) tall, 81-story building is built on the western banks of the Saigon River in the city's Binh Thanh District, located just north of Ho Chi Minh City's historic center and to the immediate south of Saigon Bridge. The tower is at the heart of the $1.5 billion high-end mixed-use urban area called Vinhomes Central Park. The development comprises hotel and conference facilities, luxury apartments, high-end retail spaces, restaurants, bars, and a multi-story observation deck.",
+        "imageName": "Landmark81"
+    },
+    {
+        "name": "Bitexco Financial Tower",
+        "category": "Skyscraper",
+        "city": "Ho Chi Minh",
+        "state": "District 1",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 106.704310,
+            "latitude": 10.771591
+        },
+        "description": "Bitexco Financial Tower (Vietnamese: Thap tai chinh Bitexco) is a skyscraper in Ho Chi Minh City, Vietnam. At its completion in 2010, it became the tallest building in Vietnam and kept this status until January 2011, when it was surpassed by Keangnam Hanoi Landmark Tower. With 68 floors above ground and three basements, the building has a height of 262.5 metres (861 ft), making it the second tallest building in the city, fifth tallest in Vietnam, and the 263rd tallest in the world, as of the beginning of 2018. The tower is owned by Bitexco Group, a Vietnamese multi-industry corporation, with a focus on real estate development. The building also houses the Ho Chi Minh City office of Bitexco Group, while its headquarters are in Hanoi. The tower was designed by Carlos Zapata, Design Principal and Founder of Carlos Zapata Studio, with French company AREP as architect of record. Designer Zapata, who was born in Venezuela but is based in New York City, drew inspiration for this skyscraper's unique shape from Vietnam's national flower, the Lotus. The tower was officially inaugurated on 31 October 2010. In 2013, CNN.com named the Bitexco Financial Tower one of the 25 Great Skyscraper Icons of Construction. And in 2015, Thrillist.com named the Bitexco Financial Tower the #2 Coolest Skyscraper in the World.",
+        "imageName": "bitexco"
+    },
+    {
+        "name": "Saigon Central Post Office",
+        "category": "Post office",
+        "city": "Ho Chi Minh",
+        "state": "District 1",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 106.700045,
+            "latitude": 10.780061
+        },
+        "description": "The Ho Chi Minh City Post Office, or the Saigon Central Post Office (Vietnamese: Bua dien trung tam Sai Gon), is a post office in the downtown Ho Chi Minh City, near Saigon Notre-Dame Basilica, the city's cathedral. The building was constructed when Vietnam was part of French Indochina in the late 19th century. It counts with Gothic, Renaissance and French influences. It was constructed between 1886 and 1891 and is now a tourist attraction. It was designed by Alfred Foulhoux, but is often erroneously credited as being the work of Gustave Eiffel or a collaboration between Foulhoux and Hanoi-based Auguste Henri Vildieu. As translated by the historian Tim Doling, the journal Architecte constructeur: Revue du monde architectural et artistique of 15 September 1891 commented: \"The inauguration the new Saigon Post Office, which was held on July 14, had been postponed until the return of the Governor General. This monument, adorned with a most artistic façade, is particularly well laid out and well equipped for the different services to which it is intended; it does the greatest honour to the skill and talent of the distinguished Chief Architect of the Colony, M. Foulhoux.\" Inside the Saigon Central Post office of special note are two painted maps that were created just after the post office was built, the first one located on the left side of the building is a map of Southern Vietnam and Cambodia titled Lignes telegraphiques du Sud Vietnam et Cambodge 1892 which translates to \"Telegraphic lines of Southern Vietnam and Cambodia 1892\". The second map of greater Saigon is titled Saigon et ses environs 1892 that translates as \"Saigon and its surroundings 1892\".",
+        "imageName": "saigonpostoffice"
+    },
+    {
+        "name": "University of Information Technology",
+        "category": "Public university",
+        "city": "Ho Chi Minh",
+        "state": "Thu Duc",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 106.803798,
+            "latitude": 10.870075
+        },
+        "description": "VNUHCM - University of Information Technology (UIT) is the public university that was founded under the Decision No.134/2006/QD-TTg dated on June 8, 2006 by the Vietnam’s Prime Minister. It offers prestigious programs in Information and Communication Technology (ICT). As the university member of Vietnam National University of Ho Chi Minh City (VNUHCM), UIT takes charge of training high-ranked labor force in information technology (IT), who are to contribute to the development of Vietnam's IT industry. Meanwhile, it conducts scientific researches and transfers advanced IT. Especially, its focal point is the application which aims at promoting the country’s industrialization and modernization. After over 10 years of founding and development, its facilities include modern and well-equipped areas for studying, researching and working that have been invested tremendously with over 14 hectares in total and within the VNU-HCM zone. Its programs ranging from undergraduate to graduate level are tailored to fit in the diverse learning and researching needs and keep pace with social requirements to provide human resources in the field of ICT. It is also well-known as a fundamental university, among 7 others getting assigned from the Prime Minister to nurture its students in Information Security in Vietnam for special social needs.  UIT has totally 17 programs in engineering and bachelor degrees. To regular Bachelor degrees, UIT has 07 special regular ones including the talented Engineering program in Information Security, the talented Bachelor program in Computer Science, the advanced Program in Information Systems, etc. To the Master degrees, UIT has 03 training programs: Computer Science, Information Technology and Information Systems. To Doctoral degrees, UIT has 02 programs: Computer Science and Information Technology. The total number of Master and Doctoral students is current over 6,000.",
+        "imageName": "uit"
+    },
+    {
+        "name": "Ho Chi Minh City Museum of Fine Arts",
+        "category": "Museum",
+        "city": "Ho Chi Minh",
+        "state": "District 1",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 106.699203,
+            "latitude": 10.769958
+        },
+        "description": "Ho Chi Minh City Museum of Fine Arts is the major art museum of HCM City, Vietnam, and second in the country only to the Vietnam National Museum of Fine Arts in Hanoi. The museum covers three three-floor buildings which house a collection featuring Vietnamese art works in sculpture, oil, silk painting and lacquer painting, as well as traditional styles including woodcut paintings in the Hàng Trống, Đông Hồ, and Kim Hoàng styles, as well as Vietnamese ceramics and a collection of ancient Buddhist art. The first floor also includes a commercial gallery of art works. Archaeological exhibits such as some of the country's best Champa and Óc Eo relics are displayed on the third floor. The main building was constructed by a French architect Rivera between 1929 and 1934 as a villa for the Hua (Hui-Bon-Hoa) family. The museum moved there in 1987.",
+        "imageName": "hcmmuseumoffinearts"
+    },
+    {
+        "name": "Phuong Nam bookstore",
+        "category": "bookstore",
+        "city": "Binh Duong",
+        "state": "Tx Thuan An",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 106.711739,
+            "latitude": 10.932438
+        },
+        "description": "Tieng viet",
+        "imageName": "phuongnambookstore"
+    }
+]
